@@ -1,0 +1,13 @@
+Cara menjalankan Database Absensi Mahasiswa
+1. Siapkan aplikasi XAMPP untuk menjalankan phpmyadmin
+2. Extract File Tubes_Kelompok2.rar
+3. Simpan Folder Basdat ke localdisk c:/XAMPP/htdocs
+4. Untuk database disiapkan dulu di phpmyadmin
+5. Jalankan terlebih dahulu XAMPP, Action yang di start adalah Apache dan MySQL
+6. Siapkan file SQL untuk di importkan ke dalam phpmyadmin, untuk menjalankan phpmyadmin dari localhost adalah
+   localhost/phpmyadmin/, diketik di addres bar di google chrome (bisa menggunakan aplikasi seacrh engine lain)
+7. Setelah masuk ke localhost/phpmyadmin/ pergi ke tab Import untuk memasukkan file SQL yang telah di extract tadi
+   dengan cara choose file dan pilih file SQL yang telah di extract di laptop/komputer
+8. Setelah selesai import file SQL selanjutnya menjalankan Web dari localhost
+9. Ketik localhost/basdat/ maka langsung menjalan web tersebut
+10. jangan lupa untuk memasukkan folder yang di extract ke dalam folder XAMPP/htdocs
